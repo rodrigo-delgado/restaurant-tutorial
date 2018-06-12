@@ -6,8 +6,9 @@ url = "/food"
 
 ## Something about the restaurant goes here
 
----
-Should be the menu in here
 
+Should be the menu in here
+---
 Sincerely,
+
 # Mr. Bojangles

@@ -14,3 +14,8 @@ title = "Tasty Licks"
     name = "Food"
     url  = "/food"
     weight = 2
+
+[[menu.main]]
+    name = "Menu"
+    url  = "/food/imperial-roll"
+    weight = 2
