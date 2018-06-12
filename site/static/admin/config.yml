@@ -1,5 +1,6 @@
 backend:
-  name: github 
+  name: github
+  repo: rodrigo-delgado/restaurant-tutorial
 
 media_folder: "src/img/gallery" # Folder where user uploaded files should go
 public_folder: "img/gallery"
